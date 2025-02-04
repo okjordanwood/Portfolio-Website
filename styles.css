@@ -453,6 +453,10 @@ footer p {
     padding-left: 1rem;
   }
 
+  .scroll-to-top i {
+    vertical-align: middle;
+  }
+
   footer {
     grid-column: span 2 / span 2;
     flex-direction: row;
